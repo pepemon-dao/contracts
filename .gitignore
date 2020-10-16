@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/build
+/backup
+/node_modules
+truffle-config.js
+
